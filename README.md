@@ -1,7 +1,7 @@
 
 #Score Keeper
 
-![Score Keeper](screenshot.png)
+![Alt text](<Screen shots/Screenshot 2024-05-22 at 4.25.04 AM.png>)
 
 ## Overview
 
@@ -20,8 +20,8 @@ The Air Hockey Score Keeper is a web application designed to keep track of score
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](![screenshot1.png](<Screen shots/Screenshot 2024-05-22 at 4.25.04 AM.png>))
+![Screenshot 2](![screenshot2.png](<Screen shots/Screenshot 2024-05-22 at 4.25.04 AM.png>))
 
 ## Technologies Used
 
